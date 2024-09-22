@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHILD VACCINATION MANAGMENT SYSTEM", "CHILD VACCINATION MANAGMENT SYSTEM\CHILD VACCINATION MANAGMENT SYSTEM.csproj", "{AB598886-19B3-4D71-8174-BAA843449BDD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SETUP1", "SETUP1\SETUP1.vdproj", "{9A9776AC-76AB-4B92-9010-90945EDA6D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB598886-19B3-4D71-8174-BAA843449BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB598886-19B3-4D71-8174-BAA843449BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB598886-19B3-4D71-8174-BAA843449BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB598886-19B3-4D71-8174-BAA843449BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9776AC-76AB-4B92-9010-90945EDA6D82}.Debug|Any CPU.ActiveCfg = Debug
+		{9A9776AC-76AB-4B92-9010-90945EDA6D82}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0CE376-0AD1-4FB1-819F-5F6292B2F7C8}
+	EndGlobalSection
+EndGlobal
